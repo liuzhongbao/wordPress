@@ -1,0 +1,15 @@
+{
+    "name": "panta打不醒Q",
+    "short_name": "panta",
+    "description": "嘟嘟嘟嘟嘟嘟嘟嘟嘟嘟嘟嘟嘟嘟",
+    "icons": [
+        {
+            "src": "/liuzhongbao.png",
+            "type": "image/png",
+            "sizes": "400x400"
+        }
+    ],
+    "background_color": "#2196f3",
+    "display": "standalone",
+    "start_url": "index.html"
+}
